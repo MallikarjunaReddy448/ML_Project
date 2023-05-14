@@ -34,7 +34,7 @@ class DataTransformation:
                 "race/ethnicity",
                 "parental level of education",
                 "lunch",
-                "test preparation course",
+                "test preparation  course",
             ]
 
             num_pipeline= Pipeline(
